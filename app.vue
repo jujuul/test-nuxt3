@@ -6,6 +6,7 @@
         <li><nuxt-link to="/">首页</nuxt-link></li>
         <li><nuxt-link to="/about">关于</nuxt-link></li>
         <li><nuxt-link to="/login">登录</nuxt-link></li>
+        <li><nuxt-link to="/user/userEdit">userEdit页面</nuxt-link></li>
       </ul>
     </header>
     <main>

@@ -5,7 +5,7 @@
 if (import.meta.server) {
   //   const router = useRouter();
   //   router.push("/login");
-  navigateTo("/login");
+  // navigateTo("/login");
 }
 </script>
 <style lang="scss" scoped></style>
