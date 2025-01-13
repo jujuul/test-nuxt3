@@ -15,6 +15,10 @@
     <footer>底部</footer>
   </div>
 </template>
+<script setup>
+console.log(add(1, 2));
+// console.log(myAdd(1, 2));
+</script>
 <style scoped lang="scss">
 header,
 footer,
